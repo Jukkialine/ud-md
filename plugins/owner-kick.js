@@ -22,3 +22,4 @@ handler.botAdmin = true
 export default handler
 
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
+handler . whatsapp =' group link '[ 'kick ' , ' - ' ]
