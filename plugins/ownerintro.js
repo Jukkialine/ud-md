@@ -5,12 +5,12 @@ let handler = async (m, { conn }) => {
 
  *Name*
 
-               *𝐷𝛥𝑅𝛫 𝐷𝛯𝛻𝛪𝐿 👑🇵🇰🤍*
+               *MUBASHIR👑🇵🇰🤍*
 
 
 *From*
 
-           *Rawalpindi, Pakistan 🇵🇰*
+           *KAEACHI, Pakistan 🇵🇰*
 
 
 *Age*
@@ -18,15 +18,15 @@ let handler = async (m, { conn }) => {
        *160000*
 
 
-*Github Id Link!*
 
-*https://github.com/umar404*
+
+
 
 
 *Owner Number*
 
 
-*wa.me/923165123719*
+*wa.me/923051038557*
 
 
 *Save Owner Number For Whatsapp Status Views And Say Done🍫🤍*
