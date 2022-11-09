@@ -4,7 +4,7 @@ import fetch from "node-fetch"
 let handler = async (m, { conn }) => {
 
   let link = await conn.groupInviteCode(m.chat)
-  let linked = 'https://chat.whatsapp.com/' + link
+  let linked = ' https://chat.whatsapp.com/BtrUEx0pYbvCa6uDFh0hkX link+'
  let s = await shortUrl(linked)
   
 		m.reply(s)
