@@ -10,7 +10,7 @@ let handler = async (m, { conn }) => {
 
 *From*
 
-           *KAEACHI, Pakistan 🇵🇰*
+           *KARACHI, Pakistan 🇵🇰*
 
 
 *Age*
