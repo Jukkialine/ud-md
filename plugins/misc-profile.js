@@ -11,7 +11,7 @@ let handler = async (m, { conn, usedPrefix }) => {
         });
    let pp
   try {
-    pp = await conn.profilePictureUrl(who, "image")
+    pp = await conn.profilePictureUrl(who, "https://i.imgur.com/w3p6cLk.jpeg")
   } catch (e) {
     pp = "https://telegra.ph/file/e47d9ec693e5288ad9382.jpg"
   } finally {
